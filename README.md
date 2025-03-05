@@ -1,3 +1,3 @@
-kleine Webseite für ein Bau unternehmen.
+Hier können Sie sich einen Überblick über  Bauprojekte verschaffen und mehr über das Unternehmen erfahren.
 
-Hier können Sie sich anschauen -> https://bekirkurtuldu.github.io/elsa-sanierung/
+-> https://bekirkurtuldu.github.io/elsa-sanierung/
